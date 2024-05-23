@@ -6,6 +6,6 @@ Ask Me is a C++ project that implements an object-oriented, files-based system w
 
 - **Login System**: Users can login to the system with their username and password.
 - **Question Management**: Users can print questions, feed questions into the system, ask questions, and answer questions.
-- **Object-Oriented Design**: The project is structured using object-oriented principles for better modularity and scalability.
+- **Object-Oriented Programming**: The project is structured using object-oriented principles for better modularity and scalability.
 - **File-Based Storage**: Questions and user data are stored in files for persistence.
 - **Simple and Intuitive Interface**: The user interface is designed to be user-friendly and intuitive.
